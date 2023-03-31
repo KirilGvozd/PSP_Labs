@@ -1,0 +1,125 @@
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  
+TCP    0.0.0.0:135            Host1:0                LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:554            Host1:0                LISTENING
+ [wmpnetwk.exe]
+  TCP    0.0.0.0:2869           Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:5357           Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:10243          Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49152          Host1:0                LISTENING
+ [wininit.exe]
+  TCP    0.0.0.0:49153          Host1:0                LISTENING
+  eventlog
+ [svchost.exe]
+  TCP    0.0.0.0:49154          Host1:0                LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49155          Host1:0                LISTENING
+ [services.exe]
+  TCP    0.0.0.0:49156          Host1:0                LISTENING
+ [lsass.exe]
+  TCP    192.168.16.51:139      Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:135               Host1:0                LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:554               Host1:0                LISTENING
+ [wmpnetwk.exe]
+  TCP    [::]:2869              Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:5357              Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:10243             Host1:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49152             Host1:0                LISTENING
+ [wininit.exe]
+  TCP    [::]:49153             Host1:0                LISTENING
+  eventlog
+ [svchost.exe]
+  TCP    [::]:49154             Host1:0                LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49155             Host1:0                LISTENING
+ [services.exe]
+  TCP    [::]:49156             Host1:0                LISTENING
+ [lsass.exe]
+  UDP    0.0.0.0:123            *:*                    
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:5004           *:*                    
+ [wmpnetwk.exe]
+  UDP    0.0.0.0:5005           *:*                    
+ [wmpnetwk.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:62795          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:53731        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.16.51:137      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.16.51:138      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.16.51:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.16.51:53730    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:123               *:*                    
+  W32Time
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:5004              *:*                    
+ [wmpnetwk.exe]
+  UDP    [::]:5005              *:*                    
+ [wmpnetwk.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:62796             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:53729            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8014:a937:8d49:cba8%11]:546  *:*                    
+  Dhcp
+ [svchost.exe]
+  UDP    [fe80::8014:a937:8d49:cba8%11]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8014:a937:8d49:cba8%11]:53728  *:*                    
+  SSDPSRV
+ [svchost.exe]
